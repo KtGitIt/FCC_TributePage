@@ -33,7 +33,7 @@ body {
   margin: 1% auto;
 }
 #tribute-info {
-  max-width: 50%;
+  width: 90%;
   text-align: left;
   margin: 5% auto;
 }
